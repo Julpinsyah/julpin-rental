@@ -230,4 +230,13 @@ class _DetailCarState extends State<DetailCar> {
       ),
     );
   }
+
+  @override
+  void dispose() {
+    nameController.dispose();
+    alamatController.dispose();
+    telpController.dispose();
+    emailController.dispose();
+    super.dispose();
+  }
 }
