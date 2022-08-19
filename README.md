@@ -1,6 +1,10 @@
 # julpinsyah_submission
 
-A new Flutter project.
+Project ini di buat untuk melengkapi submission Belajar Membuat Aplikasi Flutter untuk Pemula dari Dicoding
+project ini mempunyai desain yang sederhana dan masih banyak kekurangan di sana sini, apabila teman2 ingin berkontribusi
+terhadap projek saya ini, saya sangat mempersilahkannya.
+
+Terima Kasih.
 
 ## Getting Started
 
